@@ -24,7 +24,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "I am currently a pre-final year student at University of Tirana and pursuing my M.Information technology and communication degree. I am a self taught Full Stack Web Developer. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "I am currently a final year student at University of Tirana and pursuing my M.Information technology and communication degree. I am a self taught Full Stack Web Developer. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
   address: "Tirane, Albania",
   website: "https://robertocemeri.com",
   education: [
